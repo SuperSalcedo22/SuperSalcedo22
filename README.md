@@ -1,5 +1,5 @@
-<h1 align="center">Jan Salcedo</h1>
-<h3 align="center">Data Engineer</h3>
+<h1 align="center">Hi, I'm Jan Salcedo</h1>
+<h3 align="center">Currently working as a Data Engineer</h3>
 
 <p align="left">
 </p>
