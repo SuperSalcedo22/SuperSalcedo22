@@ -47,3 +47,13 @@
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="seaborn" width="40" height="40"/> 
   </a> 
 </p>
+
+<h3 align="left">Currently learning:</h3>
+<p align="left"> 
+  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" title="Java"> 
+    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="azure" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" title="TensorFlow"> 
+    <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/tensorflow/tensorflow-original.svg" alt="azure" width="40" height="40"/> 
+  </a> 
+</p>
